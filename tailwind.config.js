@@ -5,6 +5,7 @@ module.exports = {
     "./src/**/*.{html,js}",
    "./src/customer/components/Navigation/Navigation.jsx",
   ],
+
   theme: {
     extend: {},
   },
